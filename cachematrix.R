@@ -1,7 +1,6 @@
 ## This function create a matrix Put and calculate the inverse matrix 
 ## set, get the matrix and set and get the inverse matrix
 
-## Write a short comment describing this function
 
 makeCacheMatrix <- function(x = matrix()) {
    i <- NULL
